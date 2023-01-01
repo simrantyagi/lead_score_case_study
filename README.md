@@ -53,3 +53,5 @@ c.Leads.csv : Data used in the case study
 d.Leads Data Dictionary.xlsx : Data Dictionary for the given dataset.
 
 e.Summary.pdf : Summary of the enitre case study
+
+f. LeadScoreCaseStudy-ppt - Presentation of entire case study
